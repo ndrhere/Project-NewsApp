@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+body:before{
+background: url('./newsBackground.jpg') center repeat;
+content: " ";
+position: absolute;
+top: 0px;
+z-index: -1;
+opacity:0.5;
+   
+
+}
