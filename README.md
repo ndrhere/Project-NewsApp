@@ -27,9 +27,8 @@ To use the application, simply visit the website and select the category you are
 
 If you would like to contribute to the development of this application, please feel free to fork the repository and submit a pull request.
 
-## Changelog 
+## Support 
 
-Striving to make better changes for improvement over time, considering including a the categories for world wide news options.
-
+Got good support from different free open source platforms helping in getting data's and other project related helps while making. 
 
 
