@@ -27,9 +27,7 @@ To use the application, simply visit the website and select the category you are
 
 If you would like to contribute to the development of this application, please feel free to fork the repository and submit a pull request.
 
-## License
 
-This application is licensed under the private individual
 
 
 
